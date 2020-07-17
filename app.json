@@ -1,0 +1,12 @@
+{
+  "name": "kalkulator2",
+  "displayName": "kalkulator2",
+  "expo": {
+    "name": "kalkulator2",
+    "slug": "kalkulator2",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
